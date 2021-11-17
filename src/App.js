@@ -9,6 +9,7 @@ function App() {
         <p>Edit</p>
       </header>
       <Signup> </Signup>
+      <footer className="App-footer"></footer>
     </div>
   );
 }
